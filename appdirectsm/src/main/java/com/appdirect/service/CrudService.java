@@ -6,7 +6,7 @@ import java.util.List;
 /**
  * Interface for generic CRUD operations on a service for a specific type.
  *
- * @author Eric Heiker
+ * @author Manoj.kumar
  */
 public interface CrudService<M, ID extends Serializable> {
 
